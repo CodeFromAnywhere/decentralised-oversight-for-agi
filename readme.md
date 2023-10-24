@@ -3,6 +3,6 @@ This project is not open source (yet) but I'm putting it here since there might 
 I'm working on this for over two years and am now going to market with https://actionschema.com, which is going to be a fundamental component for achieving Humane AGI for everyone.
 
 Read more:
-http://localhost:3000/blog/agi-decentralised-oversight
+https://actionschema.com/blog/agi-decentralised-oversight
 
 Email me if you wish to be a part of this, at wijnand AT karsens dotcom
